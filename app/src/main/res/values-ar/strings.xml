@@ -1,0 +1,102 @@
+<resources>
+
+    <string name="app_name" translatable="false">Remindee</string>
+
+    <string name="login_login">تسجيل الدخول</string>
+    <string name="login_email">البريد الإلكتروني</string>
+    <string name="login_email_invalid">البريد الإلكتروني غير صحيح</string>
+    <string name="login_password">كلمة المرور</string>
+
+    <string name="setting_title">القائمة الرئيسية</string>
+    <string name="setting_theme">ثيمات</string>
+    <string name="setting_theme_automatic">تلقائي</string>
+    <string name="setting_theme_wallpaper" translatable="false">Wallpaper</string>
+    <string name="setting_theme_light">ضوء النهار</string>
+    <string name="setting_theme_twilight">الشفق</string>
+    <string name="setting_theme_night">منتصف الليل</string>
+    <string name="setting_theme_sunrise">شروق الشمس</string>
+    <string name="setting_theme_aurora">أورورا</string>
+    <string name="setting_logout">تسجيل خروج</string>
+    <string name="setting_logout_confirm">تسجيل خروج؟</string>
+    <string name="setting_language">لغة</string>
+    <string name="setting_language_english" translatable="false">English</string>
+    <string name="setting_language_indonesia" translatable="false">Bahasa Indonesia</string>
+
+    <string name="todo_done">فعله</string>
+    <string name="todo_today">اليوم</string>
+    <string name="todo_scheduled">المقرر</string>
+    <string name="todo_all">الجميع</string>
+    <string name="todo_rename">إعادة تسمية</string>
+    <string name="todo_skip">يتخطى</string>
+    <string name="todo_add">يضيف</string>
+    <string name="todo_note">ملحوظة</string>
+    <string name="todo_add_note">اضف ملاحظة</string>
+    <string name="todo_new_list">قائمة جديدة</string>
+    <string name="todo_my_list">قوائمي</string>
+    <string name="todo_no_list">لا قوائم</string>
+    <string name="todo_no_task">لا توجد مهام</string>
+    <string name="todo_cancel">يلغي</string>
+    <string name="todo_group_default_name">مجموعة بلا عنوان</string>
+    <string name="todo_group_menu">قائمة المجموعة</string>
+    <string name="todo_group_menu_add_remove_list">إضافة /إزالة القائمة</string>
+    <string name="todo_group_menu_rename">إعادة تسمية المجموعة</string>
+    <string name="todo_group_menu_delete">حذف المجموعة</string>
+    <string name="todo_group_menu_ungroup">فك تجميع القوائم</string>
+    <string name="todo_create_group">أنشئ مجموعة</string>
+    <string name="todo_create_group_hint">اسم هذه المجموعة</string>
+    <string name="todo_create_group_positive">إنشاء مجموعة</string>
+    <string name="todo_create_list_default_name">قائمة بلا عنوان</string>
+    <string name="todo_create_list">قائمة جديدة</string>
+    <string name="todo_create_list_hint">أدخل عنوان القائمة</string>
+    <string name="todo_create_list_positive">إنشاء قائمة</string>
+    <string name="todo_rename_list">إعادة تسمية القائمة</string>
+    <string name="todo_rename_list_positive">يحفظ</string>
+    <string name="todo_add_task">أضف مهمة</string>
+    <string name="todo_rename_task">إعادة تسمية المهمة</string>
+    <string name="todo_add_task_completed">مكتمل</string>
+    <string name="todo_update_group_list">أضف قائمة إلى المجموعة</string>
+    <string name="todo_step_rename">إعادة تسمية الخطوة</string>
+    <string name="todo_step_next">الخطوة التالية</string>
+    <string name="todo_add_due_date_task">أضف تاريخ التسليم</string>
+    <string name="todo_add_due_date_time_task">زمن</string>
+    <string name="todo_add_due_date_repeat_task">يكرر</string>
+    <string name="todo_repeat_never">أبداً</string>
+    <string name="todo_repeat_daily">اليومي</string>
+    <string name="todo_repeat_weekdays">أيام الأسبوع</string>
+    <string name="todo_repeat_weekly">أسبوعي</string>
+    <string name="todo_repeat_monthly">شهريا</string>
+    <string name="todo_repeat_yearly">سنوي</string>
+
+    <string name="todo_task_item_info">٪ 1 $ s من٪ 2 $ s</string>
+    <string name="todo_task_in_progress_date_creation_second">تم إنشاؤه قبل لحظات قليلة</string>
+    <string name="todo_task_in_progress_date_creation_minute">تم إنشاؤه منذ٪ 1 $ s دقيقة</string>
+    <string name="todo_task_in_progress_date_creation_hour">تم إنشاؤه منذ٪ 1 $ s ساعة</string>
+    <string name="todo_task_in_progress_date_creation_yesterday">تم إنشاؤه أمس</string>
+    <string name="todo_task_in_progress_date_creation_date">تم إنشاء٪ 1 $ s</string>
+    <string name="todo_task_complete_date_today">اكتمل اليوم</string>
+    <string name="todo_task_complete_date_yesterday">اكتمل أمس</string>
+    <string name="todo_task_complete_date">اكتمل في٪ 1 $ s</string>
+    <string name="todo_task_note_update_second">تم التحديث قبل لحظات قليلة</string>
+    <string name="todo_task_note_update_minute">تم التحديث منذ٪ 1 $ s ساعة</string>
+    <string name="todo_task_note_update_hour">تم التحديث منذ٪ 1 $ s ساعة</string>
+    <string name="todo_task_note_update_yesterday">تم التحديث أمس</string>
+    <string name="todo_task_note_update_date">تم التحديث في٪ 1 $ s</string>
+
+    <string name="todo_task_today">اليوم</string>
+    <string name="todo_task_tomorrow">الغد</string>
+    <string name="todo_task_yesterday">في الامس</string>
+    <string name="todo_task_due_date_today">مستحق اليوم</string>
+    <string name="todo_task_due_date_tomorrow">غدا</string>
+    <string name="todo_task_due_date_yesterday">أمس مستحق</string>
+    <string name="todo_task_due_date">موعد الاستحقاق٪ 1 $ s</string>
+
+    <string name="todo_task_channel_name">إنذارات المهام</string>
+    <string name="todo_task_channel_description">إخطارات للتذكير</string>
+    <string name="todo_task_notification_action_snooze">في 15 دقيقة</string>
+
+    <string name="todo_search">مهمة البحث</string>
+
+    <string name="todo_show_complete">إظهار المهمة المكتملة</string>
+    <string name="todo_hide_complete">إخفاء المهمة المكتملة</string>
+
+</resources>

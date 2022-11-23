@@ -20,6 +20,7 @@
     <string name="setting_language">Language</string>
     <string name="setting_language_english" translatable="false">English</string>
     <string name="setting_language_indonesia" translatable="false">Bahasa Indonesia</string>
+    <string name="setting_language_arabic" translatable="false">العربية</string>
 
     <string name="todo_done">Done</string>
     <string name="todo_today">Today</string>

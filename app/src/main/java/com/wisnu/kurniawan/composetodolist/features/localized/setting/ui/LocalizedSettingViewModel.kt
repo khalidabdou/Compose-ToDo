@@ -51,6 +51,11 @@ class LocalizedSettingViewModel @Inject constructor(localizedSettingEnvironment:
             language = Language.INDONESIA,
             applied = false
         ),
+        LanguageItem(
+            title = R.string.setting_language_arabic,
+            language = Language.ARABIC,
+            applied = false
+        ),
     )
 
 }
